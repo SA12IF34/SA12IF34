@@ -24,9 +24,10 @@
 <h3>Experience</h3>
 <p>Some projects covering my overall experience</p>
 <ul>
-  <li><strong>Renttherapyoffice.com</strong>&emsp;A web application for renting private therapy offices on a daily bases&emsp;<a target='_blank' href='https://renttherapyoffice.com'>Website</a></li>
-  <li><strong>MandelbrotCMS</strong>&emsp;A system for managing daily missions, projects, tracking learning, entertainment, notes, and goals&emsp;<a target='_blank' href='https://github.com/SA12IF34/MandelbrotCMS-Backend'>Repo</a></li>
-  <li><strong>Voice Agent</strong>&emsp;An AI voice agent that can speak different languages and has different modes&emsp;<a target='_blank'  href='https://github.com/SA12IF34/web_agent'>Repo</a></li>
+  <li><strong>Renttherapyoffice.com</strong>&emsp;A web application for renting private therapy offices on a daily bases&emsp;<a href='https://renttherapyoffice.com'>Website</a></li>
+  <li><strong>MandelbrotCMS</strong>&emsp;A system for managing daily missions, projects, tracking learning, entertainment, notes, and goals&emsp;<a href='https://github.com/SA12IF34/MandelbrotCMS-Backend'>Repo</a></li>
+  <li><strong>Recommender Systems</strong>&emsp;Recommender system models designed and built using Content-Based Filtering approaches&emsp;<a href='https://github.com/SA12IF34/Movie-Recommender-System'>Repo 1</a> <a href='https://github.com/SA12IF34/Anime-Recommender-System'>Repo 2</a></li>
+  <li><strong>Voice Agent</strong>&emsp;An AI voice agent that can speak different languages and has different modes&emsp;<a href='https://github.com/SA12IF34/web_agent'>Repo</a></li>
 </ul>
 
 <a target="_blank" href="https://saifchan.site/">Website</a>
