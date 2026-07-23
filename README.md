@@ -30,4 +30,3 @@
   <li><strong>Voice Agent</strong>: An AI voice agent that can speak different languages and has different modes&emsp;<a href='https://github.com/SA12IF34/web_agent'>Repo</a></li>
 </ul>
 
-<a target="_blank" href="https://saifchan.site/">Website</a>
