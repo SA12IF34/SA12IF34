@@ -10,7 +10,7 @@
 <span><img src="https://skillicons.dev/icons?i=python,rust,javascript" /></span>
 
 <strong>Frameworks and Libraries</strong><br>
-<span><img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,react,nextjs,threejs,tailwind,sklearn,tensorflow,selenium" /></span>
+<span><img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,react,nextjs,threejs,tailwind,sklearn,tensorflow" /></span>
 
 <strong>Tools</strong><br>
 <span><img src="https://skillicons.dev/icons?i=npm,vite,vscode,git,github,docker,nginx" /></span>
