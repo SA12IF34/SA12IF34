@@ -25,8 +25,8 @@
 <p>Some projects covering my overall experience</p>
 <ul>
   <li><strong>Renttherapyoffice.com</strong>: A web application for renting private therapy offices on a daily bases&emsp;<a href='https://renttherapyoffice.com'>Website</a></li>
-  <li><strong>MandelbrotCMS</strong>: A system for managing daily missions, projects, tracking learning, entertainment, notes, and goals&emsp;<a href='https://github.com/SA12IF34/MandelbrotCMS-Backend'>Repo</a></li>
-  <li><strong>Recommender Systems</strong>: Recommender system models designed and built using Content-Based Filtering approaches&emsp;<a href='https://github.com/SA12IF34/Movie-Recommender-System'>Repo 1</a> <a href='https://github.com/SA12IF34/Anime-Recommender-System'>Repo 2</a></li>
-  <li><strong>Voice Agent</strong>: An AI voice agent that can speak different languages and has different modes&emsp;<a href='https://github.com/SA12IF34/web_agent'>Repo</a></li>
+  <li><strong>MandelbrotCMS</strong>: A system for managing daily missions, projects, tracking learning, entertainment, notes, and goals&emsp;<a href='https://github.com/SA12IF34/MandelbrotCMS-Backend'>Repo</a> <a href='https://cms.saifchan.online'>Site</a></li>
+  <li><strong>Recommender Systems</strong>: Recommender system models designed and built using Content-Based Filtering approaches&emsp;<a href='https://github.com/SA12IF34/Movie-Recommender-System'>Repo</a> <a href='https://ml-models.saifchan.online/models/imdb-recommender/'>site</a></li>
+  <li><strong>Voice Agent</strong>: An AI voice agent that can speak different languages and has different modes&emsp;<a href='https://github.com/SA12IF34/web_agent'>Repo</a> <a href='https://agent.saifchan.online/'>Site</a></li>
 </ul>
 
